@@ -559,7 +559,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![Screenshot (213)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/ee94a3e7-b5d9-49cc-89c1-8ea55ddaef34)
+
+![Screenshot (214)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/e2e7e7b0-27ca-4dd0-9e38-8f6e35017f1f)
 
 ## RESULT: 
 Priority Preemptive scheduling is implemented successfully.
@@ -675,7 +676,7 @@ printf("The average turn around time is: %5.2f",atat);
 ```
 
 ## OUTPUT:
-![Screenshot (214)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/e2e7e7b0-27ca-4dd0-9e38-8f6e35017f1f)
+![Screenshot (213)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/ee94a3e7-b5d9-49cc-89c1-8ea55ddaef34)
 
 ## RESULT: 
 Priority Non-preemptive scheduling is implemented successfully.
