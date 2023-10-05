@@ -68,7 +68,7 @@ printf("\n Average waiting time is %5.2f\n average tat is%5.2f",awt,atat); }
 ```
 
 ## OUTPUT:
-![](1.png)
+![Screenshot (209)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/f1b32f63-7053-42be-8b21-e83e231ba012)
 
 ## RESULT: 
 First-Come-First-Serve Scheduling is implemented successfully.
@@ -163,7 +163,7 @@ printf("\nAverage turn around time is %5.2f",att);
 
 
 ## OUTPUT:
-![](2.png)
+![Screenshot (210)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/3fd39db7-a4a9-454d-a773-72c15e825e59)
 
 ## RESULT:
 Shortest Job First (SJF) preemptive scheduling is implemented successfully.
@@ -283,7 +283,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![](3.png)
+![Screenshot (211)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/dfd0b1fb-14fb-4cb7-be0c-41a30a645c01)
 
 ## RESULT:
 Shortest Job First (SJF) Non-preemptive scheduling is implemented successfully.
@@ -443,7 +443,7 @@ printf("\nAvg turn around time is %5.2f",atat);
 ```
 
 ## OUTPUT:
-![](4.png)
+![Screenshot (212)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/29d4afb9-582c-4539-8257-8847f5edacde)
 
 ## RESULT:
 Round Robin (RR) Scheduling is implemented successfully.
@@ -559,7 +559,7 @@ int main() {
 
 ```
 ## OUTPUT:
-![](5.png)
+![Screenshot (213)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/ee94a3e7-b5d9-49cc-89c1-8ea55ddaef34)
 
 ## RESULT: 
 Priority Preemptive scheduling is implemented successfully.
@@ -675,7 +675,7 @@ printf("The average turn around time is: %5.2f",atat);
 ```
 
 ## OUTPUT:
-![](6.png)
+![Screenshot (214)](https://github.com/MaheshS03/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/128498431/e2e7e7b0-27ca-4dd0-9e38-8f6e35017f1f)
 
 ## RESULT: 
 Priority Non-preemptive scheduling is implemented successfully.
